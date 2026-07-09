@@ -25,7 +25,7 @@
       ]
     }, {
       "title": "Academia P (WordPress)",
-      "description": "Tema personalizado para WordPress, voltado a projetos acadêmicos. Inclui um mapa interativo criado com tecnologias web atuais, sem uso de frameworks, com conteúdo dinâmico totalmente editável via gestão de conteúdo do WordPress.",
+      "description": "Tema personalizado para WordPress, voltado a projetos acadêmicos. Inclui um mapa interativo criado com tecnologias web atuais, sem uso de frameworks, com conteúdo dinâmico totalmente editável via gestão de conteúdo do WordPress. Além da versão modelo, uma versão em produção - a qual fiz implementação - pode ser encontrada em <a href='https://cuidaterritorios.com.br'>cuidaterritorios.com.br</a>.",
       "url": "https://site01.dacampsss.duckdns.org/",
       "sourceUrl": "https://github.com/dacampsss/wp-academiap-free",
       "license": ["Licença mista (LGPL/Fechado)", "ix:box-closed"],
