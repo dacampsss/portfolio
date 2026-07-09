@@ -23,6 +23,25 @@
         "./assets/imgs/assistto2.jpg",
         "./assets/imgs/assistto3.jpg"
       ]
+    }, {
+      "title": "Academia P (WordPress)",
+      "description": "Custom theme for WordPress, made for academic projects. Bundled with an interactive map created with latest web technologies, with no frameworks usage and dynamic content directly editable and manageable via WordPress panel.",
+      "url": "https://site01.dacampsss.duckdns.org/",
+      "sourceUrl": "https://github.com/dacampsss/wp-academiap-free",
+      "license": ["Mixed (LGPL/Proprietary)", "ix:box-closed"],
+      "icons": [
+        ["fa-brands:js", "Este projeto utiliza tecnologia ECMAScript 2015 (ES6)"],
+        ["fa-brands:css3", "Este projeto utiliza CSS 3"],
+        ["simple-icons:fontawesome", "Este projeto utiliza recursos do FontAwesome"],
+        ["fa-brands:php", "Este projeto utiliza PHP 8"],
+        ["fa-brands:wordpress-simple", "Este projeto foi feito para o WordPress"],
+        ["mdi:svg", "Este projeto utiliza recursos avançados de SVG"]
+      ],
+      "imgs": [
+        "./assets/imgs/academiap_mockup1.webp",
+        "./assets/imgs/academiap_mockup2.webp",
+        "./assets/imgs/academiap_mockup3.webp"
+      ]
     }
   ],
   "librariesTitle": "Libraries",
