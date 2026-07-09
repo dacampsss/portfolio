@@ -10,7 +10,7 @@
       "title": "Assistto: transformamos fórmulas em resultados",
       "description": "Website corporativo responsivo, com sliders, animações ao scrollar, criptografia embutida (<i>pssss... a senha é <b>potatoisgood</b></i>), que utiliza módulos nativos ES6 (compatível com qualquer navegador moderno).",
       "url": "./sites/assistto/",
-      "sourceUrl": "https://github.com/daltroaugusto/portfolio/tree/main/sites/assistto",
+      "sourceUrl": "https://github.com/dacampsss/portfolio/tree/main/sites/assistto",
       "license": ["GNU GPLv3", "logos:gnu"],
       "icons": [
         ["logos:es6", "Este projeto utiliza tecnologia de ponta ECMAScript 2015 (ES6)"],
@@ -22,6 +22,25 @@
         "./assets/imgs/assistto1.jpg",
         "./assets/imgs/assistto2.jpg",
         "./assets/imgs/assistto3.jpg"
+      ]
+    }, {
+      "title": "Academia P (WordPress)",
+      "description": "Tema personalizado para WordPress, voltado a projetos acadêmicos. Inclui um mapa interativo criado com tecnologias web atuais, sem uso de frameworks, com conteúdo dinâmico totalmente editável via gestão de conteúdo do WordPress.",
+      "url": "https://site01.dacampsss.duckdns.org/",
+      "sourceUrl": "https://github.com/dacampsss/wp-academiap-free",
+      "license": ["Licença mista (LGPL/Fechado)", "ix:box-closed"],
+      "icons": [
+        ["fa-brands:js", "Este projeto utiliza tecnologia ECMAScript 2015 (ES6)"],
+        ["fa-brands:css3", "Este projeto utiliza CSS 3"],
+        ["simple-icons:fontawesome", "Este projeto utiliza recursos do FontAwesome"],
+        ["fa-brands:php", "Este projeto utiliza PHP 8"],
+        ["fa-brands:wordpress-simple", "Este projeto foi feito para o WordPress"],
+        ["mdi:svg", "Este projeto utiliza recursos avançados de SVG"]
+      ],
+      "imgs": [
+        "./assets/imgs/academiap_mockup1.webp",
+        "./assets/imgs/academiap_mockup2.webp",
+        "./assets/imgs/academiap_mockup3.webp"
       ]
     }
   ],
